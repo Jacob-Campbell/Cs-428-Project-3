@@ -112,7 +112,11 @@
       }
     },
     "com.unity.xr.legacyinputhelpers": {
+<<<<<<< Updated upstream
       "version": "2.1.4",
+=======
+      "version": "2.1.6",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {},

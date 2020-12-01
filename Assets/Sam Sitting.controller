@@ -19,7 +19,11 @@ AnimatorStateMachine:
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 50, y: 20, z: 0}
   m_EntryPosition: {x: 50, y: 120, z: 0}
+<<<<<<< Updated upstream
   m_ExitPosition: {x: 800, y: 120, z: 0}
+=======
+  m_ExitPosition: {x: 260, y: 120, z: 0}
+>>>>>>> Stashed changes
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -8428019741700931976}
 --- !u!1102 &-8428019741700931976
@@ -42,7 +46,11 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
+<<<<<<< Updated upstream
   m_Motion: {fileID: -203655887218126122, guid: 6aa141c63d047404e9251f71fb2dc3fa,
+=======
+  m_Motion: {fileID: -203655887218126122, guid: e979ef0d9f92200489506ee3f10d6832,
+>>>>>>> Stashed changes
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
